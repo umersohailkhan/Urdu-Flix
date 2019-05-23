@@ -61,11 +61,13 @@ header{
 .smallboxes{
     width: auto;
     margin: auto;
-    border: #000000 solid;
     height: auto;
 }
 
-
+.margine{
+    position: relative;
+    top: 100px;
+}
 
 
 
